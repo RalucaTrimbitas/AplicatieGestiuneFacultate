@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="398.0" prefWidth="464.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Rapoarte.NotaLaboratorController">
+   <children>
+      <TableView fx:id="tableViewNoteLaborator" layoutX="-1.0" prefHeight="398.0" prefWidth="464.0">
+        <columns>
+          <TableColumn fx:id="tableColumnNumeStudent" prefWidth="124.79998779296875" text="Nume student" />
+          <TableColumn fx:id="tableColumnPrenumeStudent" minWidth="2.4000244140625" prefWidth="133.60003662109375" text="Prenume student" />
+            <TableColumn fx:id="tableColumnGrupaStudent" prefWidth="75.20001220703125" text="Grupa" />
+            <TableColumn fx:id="tableColumnNotaFinala" prefWidth="127.199951171875" text="Nota finala" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

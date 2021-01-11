@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <entity id="1">
+        <nume>Tanase</nume>
+        <prenume>Ema</prenume>
+        <grupa>224</grupa>
+        <email>ematanase@yahoo.com</email>
+        <cadruDidacticLab>Lia</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="2">
+        <nume>Pop</nume>
+        <prenume>Emilia</prenume>
+        <grupa>223</grupa>
+        <email>popemilia@yahoo.com</email>
+        <cadruDidacticLab>Daniel</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="3">
+        <nume>Ionescu</nume>
+        <prenume>Andrei</prenume>
+        <grupa>225</grupa>
+        <email>ionescuandrei@yahoo.com</email>
+        <cadruDidacticLab>Mircea</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="4">
+        <nume>Suciu</nume>
+        <prenume>Cristina</prenume>
+        <grupa>221</grupa>
+        <email>suciucristina@yahoo.com</email>
+        <cadruDidacticLab>Daniel</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="5">
+        <nume>Maier</nume>
+        <prenume>Ana</prenume>
+        <grupa>221</grupa>
+        <email>maierana@yahoo.com</email>
+        <cadruDidacticLab>Lia</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="6">
+        <nume>Pop</nume>
+        <prenume>Vlad</prenume>
+        <grupa>225</grupa>
+        <email>popvlad@yahoo.com</email>
+        <cadruDidacticLab>Daniel</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="7">
+        <nume>Bogdan</nume>
+        <prenume>Andra</prenume>
+        <grupa>222</grupa>
+        <email>bogdanandra@yahoo.com</email>
+        <cadruDidacticLab>Lia</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="8">
+        <nume>Andrei</nume>
+        <prenume>Mihai</prenume>
+        <grupa>224</grupa>
+        <email>andreimihai@yahoo.com</email>
+        <cadruDidacticLab>Mircea</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="9">
+        <nume>Popescu</nume>
+        <prenume>Ela</prenume>
+        <grupa>221</grupa>
+        <email>popescu.ela@yahoo.com</email>
+        <cadruDidacticLab>Daniel</cadruDidacticLab>
+        <nr_motivari>2</nr_motivari>
+    </entity>
+    <entity id="10">
+        <nume>Barbu</nume>
+        <prenume>Cristina</prenume>
+        <grupa>221</grupa>
+        <email>barbucristina@yahoo.com</email>
+        <cadruDidacticLab>Daniel</cadruDidacticLab>
+        <nr_motivari>1</nr_motivari>
+    </entity>
+</entities>

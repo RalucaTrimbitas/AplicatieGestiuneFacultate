@@ -1,0 +1,20 @@
+Tema: 4
+Nota: 6.0
+Predata in saptamana: 6
+Deadline: 6
+Feedback: Vezi conceptul de interfata Repository!
+Tema: 2
+Nota: 9.0
+Predata in saptamana: 7
+Deadline: 6
+Feedback: ok
+Tema: 3
+Nota: 1.0
+Predata in saptamana: 7
+Deadline: 4
+Feedback: ok
+Tema: 1
+Nota: 10.0
+Predata in saptamana: 7
+Deadline: 5
+Feedback: saaas

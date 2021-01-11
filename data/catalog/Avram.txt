@@ -1,0 +1,5 @@
+Tema: 10
+Nota: 8.0
+Predata in saptamana: 6
+Deadline: 6
+Feedback: Lipsesc testele!

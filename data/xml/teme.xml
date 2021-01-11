@@ -1,0 +1,32 @@
+<enities>
+    <tema id="1">
+        <descriere>MAP</descriere>
+        <startWeek>6</startWeek>
+        <deadlineWeek>7</deadlineWeek>
+    </tema>
+    <tema id="2">
+        <descriere>PLF</descriere>
+        <startWeek>7</startWeek>
+        <deadlineWeek>9</deadlineWeek>
+    </tema>
+    <tema id="3">
+        <descriere>Retele</descriere>
+        <startWeek>5</startWeek>
+        <deadlineWeek>6</deadlineWeek>
+    </tema>
+    <tema id="4">
+        <descriere>Engleza</descriere>
+        <startWeek>9</startWeek>
+        <deadlineWeek>11</deadlineWeek>
+    </tema>
+    <tema id="5">
+        <descriere>Probabilitati</descriere>
+        <startWeek>8</startWeek>
+        <deadlineWeek>9</deadlineWeek>
+    </tema>
+    <tema id="6">
+        <descriere>BazeDeDate</descriere>
+        <startWeek>9</startWeek>
+        <deadlineWeek>10</deadlineWeek>
+    </tema>
+</enities>

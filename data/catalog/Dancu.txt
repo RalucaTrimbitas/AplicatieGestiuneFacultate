@@ -1,0 +1,10 @@
+Tema: 9
+Nota: 8.0
+Predata in saptamana: 6
+Deadline: 6
+Feedback: Cod duplicat la Repository!
+Tema: 2
+Nota: 10.0
+Predata in saptamana: 7
+Deadline: 6
+Feedback: ok

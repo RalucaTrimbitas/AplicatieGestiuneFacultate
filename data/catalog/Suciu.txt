@@ -1,0 +1,45 @@
+Tema: 6
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 4
+Feedback: ok
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 2
+Nota: 5.0
+Predata in saptamna: 12
+Deadline: 9
+Feedback: ok
+Tema: 6
+Nota: 10.0
+Predata in saptamna: 12
+Deadline: 10
+Feedback: ok
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: okoko
+Tema: 4
+Nota: 10.0
+Predata in saptamna: 11
+Deadline: 11
+Feedback: 
+Tema: 3
+Nota: 1.0
+Predata in saptamna: 7
+Deadline: 6
+Feedback: 

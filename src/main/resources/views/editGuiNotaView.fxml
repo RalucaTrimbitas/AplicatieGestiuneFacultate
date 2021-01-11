@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="397.0" prefWidth="640.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.EditNotaController">
+   <children>
+      <VBox layoutX="145.0" layoutY="47.0" prefHeight="218.0" prefWidth="294.0">
+         <children>
+            <TextField fx:id="textFieldNumeStudent" prefHeight="50.0" promptText="Nume Student" stylesheets="@style.css" />
+            <TextField fx:id="textFieldValoare" prefHeight="50.0" prefWidth="284.0" promptText="Valoare" />
+            <TextField fx:id="textFieldNumeProfesor" prefHeight="50.0" promptText="Nume Profesor" />
+            <TextField fx:id="textFieldMotivare" prefHeight="50.0" promptText="yes/no" />
+            <TextField fx:id="textFieldDataPredare" prefHeight="50.0" promptText="Data Predare" />
+         </children>
+      </VBox>
+      <Button layoutX="192.0" layoutY="304.0" mnemonicParsing="false" onAction="#handleSave" prefHeight="31.0" prefWidth="72.0" text="Save">
+         <font>
+            <Font name="Cambria Bold" size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="310.0" layoutY="304.0" mnemonicParsing="false" onAction="#handleCancel" text="Cancel">
+         <font>
+            <Font name="Cambria Bold" size="18.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutY="247.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="85.0" fitWidth="102.0" layoutX="23.0" layoutY="287.0">
+         <image>
+            <Image url="@../../../../../imagini%20proiect/ok.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="36.0" layoutY="61.0" prefHeight="18.0" prefWidth="102.0" text="Nume Student">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="103.0" prefHeight="18.0" prefWidth="102.0" text="Valoare">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="146.0" text="Nume Profesor">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="190.0" text="Motivare">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="239.0" text="Data Predare">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <TextArea fx:id="textAreaFeedback" layoutX="461.0" layoutY="81.0" prefHeight="150.0" prefWidth="164.0" promptText="Feedback" />
+      <Label layoutX="510.0" layoutY="50.0" text="Feedback">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="comboBoxTema" layoutX="468.0" layoutY="246.0" prefWidth="150.0" promptText="Tema" />
+   </children>
+</AnchorPane>

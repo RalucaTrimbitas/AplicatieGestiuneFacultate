@@ -1,0 +1,11 @@
+1; Bucur; Mihai; 223; bucurmihai@yahoo.com; Ana; 2
+2; Maier; Nicoleta; 224; maiernicoleta@yahoo.com; Emilia; 0
+3; Dancu; George; 222; dancugeorge@yahoo.com; Paul; 2
+4; Avram; Delia; 221; avramdelia@yahoo.com; Emilia; 1
+5; Popescu; Ligia; 223; popesculigia@yahoo.com; Denisa; 2
+6; Ionescu; Andrei; 226; ionescuandrei@yahoo.com; Mihai; 2
+7; Medan; Ema; 223; medanema@yahoo.com; Emilia; 2
+8; Ciufudean; Denisa; 225; ciufudeandenisa@yahoo.com; Paul; 1
+9; Darc; Ela; 227; darcela@yahoo.com; Mihai; 2
+10; Pop; Dan; 224; popdan@yahoo.com; Lia; 2
+11; Barbu; Dan; 223; barbudan@yahoo.com; Mihai; 1

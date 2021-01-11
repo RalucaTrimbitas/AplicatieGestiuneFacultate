@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="444.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Rapoarte.StudentPremiantController">
+    <children>
+        <TableView fx:id="tableViewNoteLaborator" prefHeight="415.0" prefWidth="456.0">
+            <columns>
+                <TableColumn fx:id="tableColumnNumeStudent" prefWidth="148.79999387264252" text="Nume student" />
+                <TableColumn fx:id="tableColumnPrenumeStudent" minWidth="2.4000244140625" prefWidth="180.0" text="Prenume student" />
+                <TableColumn fx:id="tableColumnGrupaStudent" prefWidth="127.20001220703125" text="Grupa" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>
